@@ -1,0 +1,19 @@
+img {
+    width: 18rem;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #f9f4ef;
+    color: #343a40;
+    font-family: proxima-nova, sans-serif;
+}
+
+#about, #contact {
+    background-color:#343a40;
+    color: #fffffe
+}
+
